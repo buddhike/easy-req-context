@@ -1,6 +1,6 @@
 {
   "name": "easy-req-context",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Placeholder for per-request services used in expressjs handlers.",
   "author": "Buddhike de Silva",
   "license": "MIT",
